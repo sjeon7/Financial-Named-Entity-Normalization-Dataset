@@ -1,6 +1,8 @@
 # Financial-Named-Entity-Normalization-Dataset
 Financial Named Entity Normalization Dataset build from S&amp;P500 10-K documents
 
+
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
